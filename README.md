@@ -11,5 +11,5 @@ The rogue interface consists of the "scripts", "settings" and "execution" tab. A
 
 # Questions
 
-> Why are some of the styles so conky?
+> Why are some of the styles so conky? <
 Because I was unorganized and testing in the process of creating the source / design. Not everything in this is manageable unless you know what your going through.
