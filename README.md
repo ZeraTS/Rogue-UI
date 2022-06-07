@@ -7,6 +7,7 @@ The rogue interface consists of the "scripts", "settings" and "execution" tab. A
 
 ![Rogue-UI](https://user-images.githubusercontent.com/51274450/172288159-d961fc1c-6cdf-4fb4-a6e4-e907df40766a.svg)
 ![Rogue-UI](https://user-images.githubusercontent.com/51274450/172288283-486e3701-0da0-406e-b456-0d0be590163b.svg)
+![68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76322f6f70656e2d736f757263652e706e673f763d313033](https://user-images.githubusercontent.com/51274450/172298831-468e3a30-7753-46af-8092-63dd554ccea2.png)
 
 # Questions
 
