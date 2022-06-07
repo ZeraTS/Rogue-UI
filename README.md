@@ -22,3 +22,8 @@ Be my guest, after all you could even ripoff another user for all I care, I am n
 > Why post old work?
 
 Because I have nothing else to commit on github, might as well make a contribution haha.
+
+# Video
+
+https://user-images.githubusercontent.com/51274450/172289020-d46e354c-64bc-4601-913e-2786047ba33a.mp4
+
