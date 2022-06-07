@@ -1,0 +1,97 @@
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\Rogue.csprojAssemblyReference.cache
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\Registration.g.cs
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\App.g.cs
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\Rogue_MarkupCompile.cache
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\Rogue_MarkupCompile.lref
+C:\Users\sinis\source\repos\Rogue\Rogue\bin\Debug\Rogue.exe.config
+C:\Users\sinis\source\repos\Rogue\Rogue\bin\Debug\Rogue.exe
+C:\Users\sinis\source\repos\Rogue\Rogue\bin\Debug\Rogue.pdb
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\Registration.baml
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\Rogue.g.resources
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\Rogue.Properties.Resources.resources
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\Rogue.csproj.GenerateResource.cache
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\Rogue.csproj.CoreCompileInputs.cache
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\Rogue.exe
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\Rogue.pdb
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\Executor.g.cs
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\Executor.baml
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\ScriptControl.g.cs
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\ScriptControl.baml
+C:\Users\sinis\source\repos\Rogue\Rogue\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\sinis\source\repos\Rogue\Rogue\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\sinis\source\repos\Rogue\Rogue\obj\Debug\Rogue.csproj.CopyComplete
+C:\Users\sinis\source\repos\Rogue\Rogue\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\yorda\Desktop\Rogue\Rogue\bin\Debug\Rogue.exe.config
+C:\Users\yorda\Desktop\Rogue\Rogue\bin\Debug\Rogue.exe
+C:\Users\yorda\Desktop\Rogue\Rogue\bin\Debug\Rogue.pdb
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\Rogue.csproj.AssemblyReference.cache
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\Executor.g.cs
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\Registration.g.cs
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\ScriptControl.g.cs
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\App.g.cs
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\Rogue_MarkupCompile.cache
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\Rogue_MarkupCompile.lref
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\Executor.baml
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\Registration.baml
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\ScriptControl.baml
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\Rogue.g.resources
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\Rogue.Properties.Resources.resources
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\Rogue.csproj.GenerateResource.cache
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\Rogue.csproj.CoreCompileInputs.cache
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\Rogue.csproj.CopyComplete
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\Rogue.exe
+C:\Users\yorda\Desktop\Rogue\Rogue\obj\Debug\Rogue.pdb
+C:\Users\yorda\Desktop\Rogue\Rogue\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yorda\Desktop\Rogue\Rogue\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sinis\source\repos\Rogue\Rogue\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sinis\source\repos\Rogue\Rogue\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\bin\Debug\Rogue.exe.config
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\bin\Debug\Rogue.exe
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\bin\Debug\Rogue.pdb
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\Rogue.csprojAssemblyReference.cache
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\Executor.g.cs
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\Registration.g.cs
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\ScriptControl.g.cs
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\App.g.cs
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\Rogue_MarkupCompile.cache
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\Rogue_MarkupCompile.lref
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\Executor.baml
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\Registration.baml
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\ScriptControl.baml
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\Rogue.g.resources
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\Rogue.Properties.Resources.resources
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\Rogue.csproj.GenerateResource.cache
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\Rogue.csproj.CoreCompileInputs.cache
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\Rogue.csproj.CopyComplete
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\Rogue.exe
+C:\Users\sinis\OneDrive\Desktop\New folder\Rogue\Rogue\obj\Debug\Rogue.pdb
+D:\srcs\Rogue\Rogue\bin\Debug\Rogue.exe.config
+D:\srcs\Rogue\Rogue\bin\Debug\Rogue.exe
+D:\srcs\Rogue\Rogue\bin\Debug\Rogue.pdb
+D:\srcs\Rogue\Rogue\bin\Debug\Newtonsoft.Json.dll
+D:\srcs\Rogue\Rogue\bin\Debug\RestSharp.dll
+D:\srcs\Rogue\Rogue\bin\Debug\ICSharpCode.AvalonEdit.pdb
+D:\srcs\Rogue\Rogue\bin\Debug\ICSharpCode.AvalonEdit.xml
+D:\srcs\Rogue\Rogue\bin\Debug\Newtonsoft.Json.xml
+D:\srcs\Rogue\Rogue\bin\Debug\RestSharp.xml
+D:\srcs\Rogue\Rogue\obj\Debug\Rogue.csproj.AssemblyReference.cache
+D:\srcs\Rogue\Rogue\obj\Debug\Executor.g.cs
+D:\srcs\Rogue\Rogue\obj\Debug\Registration.g.cs
+D:\srcs\Rogue\Rogue\obj\Debug\ScriptControl.g.cs
+D:\srcs\Rogue\Rogue\obj\Debug\App.g.cs
+D:\srcs\Rogue\Rogue\obj\Debug\Rogue_MarkupCompile.cache
+D:\srcs\Rogue\Rogue\obj\Debug\Rogue_MarkupCompile.lref
+D:\srcs\Rogue\Rogue\obj\Debug\Executor.baml
+D:\srcs\Rogue\Rogue\obj\Debug\Registration.baml
+D:\srcs\Rogue\Rogue\obj\Debug\ScriptControl.baml
+D:\srcs\Rogue\Rogue\obj\Debug\Rogue.g.resources
+D:\srcs\Rogue\Rogue\obj\Debug\Rogue.Properties.Resources.resources
+D:\srcs\Rogue\Rogue\obj\Debug\Rogue.csproj.GenerateResource.cache
+D:\srcs\Rogue\Rogue\obj\Debug\Rogue.csproj.CoreCompileInputs.cache
+D:\srcs\Rogue\Rogue\obj\Debug\Rogue.csproj.CopyComplete
+D:\srcs\Rogue\Rogue\obj\Debug\Rogue.exe
+D:\srcs\Rogue\Rogue\obj\Debug\Rogue.pdb

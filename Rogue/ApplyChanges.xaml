@@ -1,0 +1,198 @@
+﻿<Window x:Class="Rogue.ApplyChanges"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rogue"
+        mc:Ignorable="d"
+        Title="ApplyChanges" Height="153" Width="275" WindowStyle="None" ResizeMode="NoResize" AllowsTransparency="True" Background="{x:Null}">
+    <Window.Resources>
+        <Style x:Key="FocusVisual">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle
+                            Margin="2"
+                            SnapsToDevicePixels="true"
+                            Stroke="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"
+                            StrokeDashArray="1 2"
+                            StrokeThickness="1" />
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <SolidColorBrush x:Key="Button.Static.Background" Color="#FFDDDDDD" />
+        <SolidColorBrush x:Key="Button.Static.Border" Color="#FF707070" />
+        <Style x:Key="ButtonStyle3" TargetType="{x:Type Button}">
+            <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}" />
+            <Setter Property="Background" Value="{StaticResource Button.Static.Background}" />
+            <Setter Property="BorderBrush" Value="{StaticResource Button.Static.Border}" />
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+            <Setter Property="VerticalContentAlignment" Value="Center" />
+            <Setter Property="Padding" Value="1" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border
+                            x:Name="border"
+                            Background="{TemplateBinding Background}"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}"
+                            SnapsToDevicePixels="true">
+                            <ContentPresenter
+                                x:Name="contentPresenter"
+                                Margin="{TemplateBinding Padding}"
+                                HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                Focusable="False"
+                                RecognizesAccessKey="True"
+                                SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Trigger.EnterActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <ColorAnimation
+                                                AutoReverse="False"
+                                                RepeatBehavior="1x"
+                                                Storyboard.TargetProperty="Background.Color"
+                                                To="#FF3061A8"
+                                                Duration="0:0:0.25" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.EnterActions>
+                                <Trigger.ExitActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <ColorAnimation
+                                                AutoReverse="False"
+                                                RepeatBehavior="1x"
+                                                Storyboard.TargetProperty="Background.Color"
+                                                To="#FF3A71C1"
+                                                Duration="0:0:0.25" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.ExitActions>
+                            </Trigger>
+
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter TargetName="border" Property="Background" Value="#FF354357" />
+                                <Setter TargetName="border" Property="BorderBrush" Value="#FF354357" />
+                                <Setter TargetName="contentPresenter" Property="TextElement.Foreground" Value="#FF5B5B5B" />
+                                <Setter Property="Cursor" Value="No" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ButtonStyle4" TargetType="{x:Type Button}">
+            <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}" />
+            <Setter Property="Background" Value="{StaticResource Button.Static.Background}" />
+            <Setter Property="BorderBrush" Value="{StaticResource Button.Static.Border}" />
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+            <Setter Property="VerticalContentAlignment" Value="Center" />
+            <Setter Property="Padding" Value="1" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <ControlTemplate.Resources>
+                            <Storyboard x:Key="ova">
+                                <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Panel.Background).(SolidColorBrush.Color)" Storyboard.TargetName="border">
+                                    <EasingColorKeyFrame KeyTime="0:0:0.4" Value="#FF16181F"/>
+                                </ColorAnimationUsingKeyFrames>
+                            </Storyboard>
+                            <Storyboard x:Key="lava">
+                                <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Panel.Background).(SolidColorBrush.Color)" Storyboard.TargetName="border">
+                                    <EasingColorKeyFrame KeyTime="0:0:0.3" Value="#FF0D0E12"/>
+                                </ColorAnimationUsingKeyFrames>
+                            </Storyboard>
+                        </ControlTemplate.Resources>
+                        <Border
+                            x:Name="border"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}" 
+                            CornerRadius="3"
+                            SnapsToDevicePixels="true" Background="#FF0D0E12">
+                            <ContentPresenter
+                                x:Name="contentPresenter"
+                                Margin="{TemplateBinding Padding}"
+                                HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                Focusable="False"
+                                RecognizesAccessKey="True"
+                                SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" />
+                        </Border>
+                        <ControlTemplate.Triggers>
+
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Trigger.EnterActions>
+                                    <BeginStoryboard Storyboard="{StaticResource ova}"/>
+                                </Trigger.EnterActions>
+                                <Trigger.ExitActions>
+                                    <BeginStoryboard Storyboard="{StaticResource lava}"/>
+                                </Trigger.ExitActions>
+                            </Trigger>
+
+                            <Trigger Property="IsPressed" Value="True">
+                                <Trigger.EnterActions>
+                                    <BeginStoryboard x:Name="cre"  Storyboard="{StaticResource lava}"/>
+                                </Trigger.EnterActions>
+                                <Trigger.ExitActions>
+                                    <StopStoryboard BeginStoryboardName="cre"/>
+                                </Trigger.ExitActions>
+
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Border BorderThickness="1" CornerRadius="5 5 0 0" HorizontalAlignment="Left" Height="132" VerticalAlignment="Top" Width="254" Margin="11,11,0,0" Background="#FF0D0E12">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="12" ShadowDepth="1" Opacity="0.5"/>
+            </Border.Effect>
+            <Grid Margin="0,0,-2,-2">
+                <Button x:Name="next_Copy1"
+                    Width="50.832"
+                    Height="22.75"
+                    Margin="194.168,101.25,0,0"
+                    Padding="1"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Background="#FF0D0E12"
+                    BorderBrush="{x:Null}"
+                    Content="APPLY"
+                    Cursor="Hand"
+                    FontFamily="/Rogue;component/#Poppins SemiBold"
+                    Foreground="#FF316AFF"
+                    Style="{DynamicResource ButtonStyle4}" Loaded="next_Copy1_Loaded" FontSize="11" BorderThickness="0,0,0,1"/>
+                <Button x:Name="next_Copy2"
+                    Width="56.832"
+                    Height="22.75"
+                    Margin="132.336,101.25,0,0"
+                    Padding="1"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Background="#FF0D0E12"
+                    BorderBrush="{x:Null}"
+                    Content="CANCEL"
+                    Cursor="Hand"
+                    FontFamily="/Rogue;component/#Poppins SemiBold"
+                    Foreground="#FF316AFF"
+                    Style="{DynamicResource ButtonStyle4}" Loaded="next_Copy2_Loaded" FontSize="11" BorderThickness="0,0,0,1"/>
+                <Label Content="Title Text" HorizontalAlignment="Left" Height="43.251" VerticalAlignment="Top" Width="179.168" FontFamily="/Rogue;component/#Poppins" FontSize="14" Foreground="White" Margin="11,7,0,0"/>
+                <Label Content="This is the description which will have all &#xA;the details over the changes made or &#xA;whatever" HorizontalAlignment="Left" Height="58.399" VerticalAlignment="Top" Width="233" FontFamily="/Rogue;component/#Poppins" Foreground="#FF6D6F76" Margin="11,34.851,0,0" FontSize="11"/>
+
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
