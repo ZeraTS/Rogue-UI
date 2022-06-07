@@ -11,5 +11,14 @@ The rogue interface consists of the "scripts", "settings" and "execution" tab. A
 
 # Questions
 
-> Why are some of the styles so conky? <
+> Why are some of the styles so conky? 
+
 Because I was unorganized and testing in the process of creating the source / design. Not everything in this is manageable unless you know what your going through.
+
+> Can I use this for my exploit?
+
+Be my guest, after all you could even ripoff another user for all I care, I am not liable for your actions. Afterall this uses an MIT license.
+
+> Why post old work?
+
+Because I have nothing else to commit on github, might as well make a contribution haha.
