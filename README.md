@@ -8,3 +8,8 @@ The rogue interface consists of the "scripts", "settings" and "execution" tab. A
 
 ![Rogue-UI](https://user-images.githubusercontent.com/51274450/172288159-d961fc1c-6cdf-4fb4-a6e4-e907df40766a.svg)
 ![Rogue-UI](https://user-images.githubusercontent.com/51274450/172288283-486e3701-0da0-406e-b456-0d0be590163b.svg)
+
+# Questions
+
+> Why are some of the styles so conky?
+> Because I was unorganized and testing in the process of creating the source / design. Not everything in this is manageable unless you know what your going through.
