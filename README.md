@@ -5,4 +5,4 @@ Due to certain turn of events on an individual named "Reversed"/"Bryson"/"Spare"
 
 The rogue interface consists of the "scripts", "settings" and "execution" tab. As well as the scriptcontrol (usercontrol.xaml file). Here's a video demonstrating the Rogue interface
 
-![flat_unconfigured](https://user-images.githubusercontent.com/51274450/172288099-92eaa0bb-20db-4af2-8776-9bd646120317.svg)
+![Rogue-UI](https://user-images.githubusercontent.com/51274450/172288159-d961fc1c-6cdf-4fb4-a6e4-e907df40766a.svg)
